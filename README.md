@@ -392,11 +392,5 @@ git pull origin main
 Follow official Docs for more info and Errors!
 
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U! 👨🏻‍💻
-
-Happy Coding💗
+👉 Join TG for more Updates: https://t.me/livelootarif
 
